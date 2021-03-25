@@ -1,7 +1,7 @@
 Dice
 ====
 
-.. image:: https://img.shields.io/github/v/release/simplebot-org/simplebot_dice
+.. image:: https://img.shields.io/pypi/v/simplebot_dice.svg
    :target: https://pypi.org/project/simplebot_dice
 
 .. image:: https://img.shields.io/pypi/pyversions/simplebot_dice.svg
@@ -10,8 +10,8 @@ Dice
 .. image:: https://pepy.tech/badge/simplebot_dice
    :target: https://pepy.tech/project/simplebot_dice
 
-.. image:: https://img.shields.io/github/license/simplebot-org/simplebot_dice
-   :target: https://github.com/simplebot-org/simplebot_dice/blob/master/LICENSE
+.. image:: https://img.shields.io/pypi/l/simplebot_dice.svg
+   :target: https://pypi.org/project/simplebot_dice
 
 .. image:: https://img.shields.io/badge/code%20style-black-000000.svg
    :target: https://github.com/psf/black
